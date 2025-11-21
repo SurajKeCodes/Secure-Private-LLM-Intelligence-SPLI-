@@ -2,6 +2,13 @@
 Your Own Offline, Secure, Voice-Enabled AI Chat Assistant
 ---
 
+![Security](https://img.shields.io/badge/Security-Enhanced-critical?style=for-the-badge&logo=security)
+![Privacy](https://img.shields.io/badge/Privacy-Guaranteed-8e44ad?style=for-the-badge)
+![Local Processing](https://img.shields.io/badge/Data-Local%20Only-27ae60?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Local%20Model-orange?style=for-the-badge)
+
+
 ### 🌟 **Overview**
 
 *Private and Secure Local LLM is a cutting-edge, offline AI assistant that runs entirely on your local machine — no internet, no cloud, no compromises. It lets you chat with powerful open-source LLMs while keeping your data private and secure. With built-in voice input support, intuitive UI, and customizable personas, it's a powerful tool for developers, professionals, and enthusiasts who care about privacy and control.*
@@ -115,5 +122,15 @@ Run it on:
 * 📱 **WhatsApp**: [Message Now](https://wa.me/919518772281) or 📞 +91 9518772281
 
 ---
+## 📜 License
+
+![MIT License](https://img.shields.io/badge/LICENSE-MIT-00C853?style=for-the-badge)
+
+This project is licensed under the **MIT License** — free to use, modify, distribute, and commercialize, with attribution.
+
+**Summary:**  
+You can use this software for any purpose, but it comes **without warranty**, and you must include the original copyright.
+
+
 
 
